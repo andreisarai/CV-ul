@@ -109,7 +109,7 @@ footer{
     margin-top: 20px;
     border-radius: 5px;
     border: 2px solid rgb(197, 203, 204);
-    font-family: Roboto;
+    font-family: "Roboto";
     resize: none;
 }
 .intrebare{
@@ -129,24 +129,6 @@ footer{
     
     border-radius: 5px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media (max-width:770px) {
        header {
         max-width:100dvh;
